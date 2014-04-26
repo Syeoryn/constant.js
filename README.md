@@ -7,4 +7,5 @@ constant.js
      <li>nFactorial  </li>
      <li>nRooks  </li>
      <li>nQueens  </li>
+     <li>numbers </li>
    </ul>
