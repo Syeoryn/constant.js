@@ -1,3 +1,7 @@
+var identity = function(anything){
+    return anything;
+}
+
 var nFactorial = function(num){
   var factorials = {
     0: 1,
