@@ -4,6 +4,7 @@ constant.js
 
 *Current functionality:*
    <ul>
+     <li>Identity  </li>
      <li>nFactorial  </li>
      <li>nRooks  </li>
      <li>nQueens  </li>
