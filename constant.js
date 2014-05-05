@@ -212,3 +212,7 @@ var maybeError = function() {
 var rangeError = function(){
   throw new rangeError('Maximum call stack size exceeded');
 };
+
+function fibonacci(n) {
+  return n;
+}
