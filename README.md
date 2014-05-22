@@ -9,4 +9,5 @@ constant.js
      <li>nRooks  </li>
      <li>nQueens  </li>
      <li>numbers </li>
+     <li>words (English) </li>
    </ul>
