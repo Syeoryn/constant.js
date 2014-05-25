@@ -216,3 +216,33 @@ var rangeError = function(){
 function fibonacci(n) {
   return [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765][n];
 }
+
+var why = function(){
+
+  // Reasons inspired by Matlab's why function
+  var reasons = [
+    "Such is the power of Javascript",
+    "Why not?",
+    "Very magic, such potions, wow!",
+    "Don't ask...",
+    "It's karma.",
+    "How should I know?",
+    "Sorry... can you rephrase that?",
+    "Sorry... were you talking to me?",
+    "It should be obvious by now.",
+    "I was just following your orders.",
+    "Because the call stack size was exceeded!",
+    "Don't look at me.",
+    "In the beginning, God created the heavens and the earth.",
+    "Are you supposed to be looking at the code?",
+    "You are not very good at explaining yourself.",
+    "You are not very good at giving directions.",
+    "Your orders, not mine.",
+    "Very code, much error, such stack, wow!",
+    "I did everything you asked me to.",
+    "Undefined is certainly not a function.",
+    "I really cannot read property 'length' of undefined!"
+  ];
+
+  return reasons[Math.floor(Math.random() * reasons.length)];
+};
