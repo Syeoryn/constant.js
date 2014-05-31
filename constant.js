@@ -246,3 +246,13 @@ var why = function(){
 
   return reasons[Math.floor(Math.random() * reasons.length)];
 };
+
+var usefulRandom = function(upper, lower, makeInteger){
+  lower = lower || 0;
+  random = Math.random();
+  random = random * (upper - lower) + lower;
+  if(makeInteger){
+    random = Math.floor(random);
+  }
+  return random
+}
