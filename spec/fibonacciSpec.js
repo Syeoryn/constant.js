@@ -10,7 +10,7 @@ describe('fibonacci', function() {
 
    var fn_2 = 0
    var fn_1 = 1;
-   for (var i = 2; i < 55; i++) {
+   for (var i = 2; i < 89; i++) {
      var fn = fn_1 + fn_2;
      it('should return ' + fn + ' when given ' + i + ' as an argument',
        function() {
