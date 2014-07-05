@@ -1,0 +1,13 @@
+{
+  "name": "constant.js",
+  "version": "0.0.0",
+  "description": "A library for computing your favorite algorithms in constant time!",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -r spec/env spec/"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.20.1"
+  }
+}

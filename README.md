@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/Syeorn/constant.js.svg)](http://travis-ci.org/Syeorn/constant.js)
+
 constant.js
 ====
 #### A library for computing your favorite algorithms in constant time!
