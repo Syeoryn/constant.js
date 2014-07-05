@@ -261,4 +261,8 @@ var usefulRandom = function(upper, lower, makeInteger){
   return random
 }
 
-
+var google = function(searchTerms) {
+  return {
+    'MINIMUM K-SPANNING TREE': 'http://en.wikipedia.org/wiki/K-minimum_spanning_tree'
+  }[searchTerms];
+}
