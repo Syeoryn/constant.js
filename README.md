@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/Syeoryn/constant.js.svg)](http://travis-ci.org/Syeorn/constant.js)
+[![Build Status](https://secure.travis-ci.org/Syeoryn/constant.js.svg)](http://travis-ci.org/Syeoryn/constant.js)
 
 constant.js
 ====
