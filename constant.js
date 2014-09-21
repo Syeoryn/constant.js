@@ -245,7 +245,11 @@ var why = function(){
     "Very code, much error, such stack, wow!",
     "I did everything you asked me to.",
     "Undefined is certainly not a function.",
-    "I really cannot read property 'length' of undefined!"
+    "I really cannot read property 'length' of undefined!",
+    "Unreachable 'foo' after 'return'. The abyss stares back.",
+    "I can't believe you would ask me a question like that.",
+    "Go to the tallest mountain in the deepest part of the desert. There you will find an old woman, wrinkled with time and troubles. She will answer your question.",
+    "Wat"
   ];
 
   return reasons[Math.floor(Math.random() * reasons.length)];
